@@ -1,0 +1,9 @@
+langchain
+langchain-groq
+langchain-community
+langchain-huggingface
+mysql-connector-python
+chromadb
+sentence-transformers
+python-dotenv
+streamlit
